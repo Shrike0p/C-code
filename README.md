@@ -31,5 +31,5 @@ int main()
     i = 1, 2, 3;        
     printf("i = %d\n", i);
 
-    return 0;
+    return 0
 }
