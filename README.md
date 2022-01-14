@@ -27,9 +27,9 @@ int main()
 #include <stdio.h>
 int main()
 {
-    int i;
+    int i,y;
     i = 1, 2, 3;        
     printf("i = %d\n", i);
 
-    return 0
+    return 0;
 }
